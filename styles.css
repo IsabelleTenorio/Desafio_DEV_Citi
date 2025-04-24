@@ -64,7 +64,7 @@ main p{
 footer {
     display: flex;
     justify-content: center;
-    margin-top: 70px;
+    margin-top: 30px;
 }
 
 footer div{
@@ -89,10 +89,10 @@ footer a{
     }
 }
 
-@media (width <= 420px) { /* Estilos para telas com largura menor ou igual a 420px */
+@media (width <= 420px) { 
     footer{
-        flex-direction: column; /* Exibe os elementos do rodapé em coluna */
-        justify-content: center; /* Centraliza os elementos horizontalmente */
-        align-items: center; /* Centraliza os elementos verticalmente */
+        flex-direction: column; 
+        justify-content: center; 
+        align-items: center;
     }
 }
