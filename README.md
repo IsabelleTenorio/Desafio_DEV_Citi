@@ -1,7 +1,7 @@
 # Desafio_DEV_Citi
 Criação de uma página pessoal web com HTML e CSS.
 
-Como usar
+#Como usar
 1º passo: Clone o repositório (git clone https://github.com/IsabelleTenorio/Desafio_DEV_Citi);
 2º passo: Abra a pasta em um editor de código (usei o VS Code);
 3º passo: Instale a extensão Live Server;
