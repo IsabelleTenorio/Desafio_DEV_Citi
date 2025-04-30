@@ -7,6 +7,5 @@ Criação de uma página pessoal web com HTML e CSS.
 3º passo: Instale a extensão Live Server;
 4º passo: Clique com o botão direito no arquivo index.html e selecione "Open with Live Server".
 
-![image](https://github.com/user-attachments/assets/dbe0448d-5b8e-4459-851c-d8bed5fbe1e3)
-
-![image](https://github.com/user-attachments/assets/4d903625-f49d-4eb0-9c87-210cacf2c76e)
+![image](https://github.com/user-attachments/assets/c9fb721c-c72c-47ce-bde6-2ed2d6d6a277)
+![image](https://github.com/user-attachments/assets/187ac857-8b4b-4263-95e7-207eb0c82e55)
